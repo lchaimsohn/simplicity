@@ -24,14 +24,10 @@ a{
     text-decoration: none;
 }
 
-/* img{
+img{
 /*     max-width: 45%; */
-/*     width: 45%; */
-
-    /* border: 0;
-    margin: 0;
-    padding: 0;
-} */
+    width: 90%;
+}
 
 iframe{ 
     width: 100%;
