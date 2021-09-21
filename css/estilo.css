@@ -78,11 +78,15 @@ h1 a{
     margin-left: 0.3rem;
 }
 
+
 figure img{
     max-width: 45%;
     
     
     
+}
+.linguagens img{
+    width:90%;
 }
 
 article h2{
