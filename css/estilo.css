@@ -85,9 +85,7 @@ figure img{
     
     
 }
-.linguagens img{
-    width:90%;
-}
+
 
 article h2{
     text-align: center;
@@ -347,6 +345,9 @@ button:hover, button:focus{
 }
 form div{
     margin-top: 1rem;
+}
+.linguagens img{
+    width:90%;
 }
 
 /* #status{
