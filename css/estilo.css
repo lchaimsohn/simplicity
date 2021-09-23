@@ -79,12 +79,12 @@ h1 a{
 }
 
 
-figure img{
+/* figure img{
     max-width: 45%;
     
     
     
-}
+} */
 
 
 article h2{
@@ -288,11 +288,11 @@ a img{
     .destaque{
         height: 85vh;
     }
-    figure img{
+/*     figure img{
         max-width: 22%;
         
         
-    }
+    } */
 }
 
 
